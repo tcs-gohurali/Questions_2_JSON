@@ -1,0 +1,15 @@
+a. new york
+b. nevada
+c. washington
+d. texas
+---
+a. number
+b. boolean
+c. float
+d. string
+---
+a. honda
+b. audi
+c. volkswagon
+d. bmw
+---

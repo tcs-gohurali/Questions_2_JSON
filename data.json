@@ -1,0 +1,34 @@
+{
+    "questions": [
+        {
+            "question": "what state is seattle located in?",
+            "choices": [
+                "a. new york",
+                "b. nevada",
+                "c. washington",
+                "d. texas"
+            ],
+            "solution": "c"
+        },
+        {
+            "question": "which of the following is a valid data type in javascript?",
+            "choices": [
+                "a. number",
+                "b. boolean",
+                "c. float",
+                "d. string"
+            ],
+            "solution": "c"
+        },
+        {
+            "question": "which of the following is the parent company to Acura?",
+            "choices": [
+                "a. honda",
+                "b. audi",
+                "c. volkswagon",
+                "d. bmw"
+            ],
+            "solution": "a"
+        }
+    ]
+}
